@@ -12,5 +12,6 @@ This repository contains 3 different scripts using the TMDb api:
 
 ### How to get TMDb API Key:  
 First you need to make an account in TMDb  
-Go here -----> https://www.themoviedb.org
+Go here -----> https://www.themoviedb.org  
+![Screenshot](screenshot.png)
 

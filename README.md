@@ -4,13 +4,15 @@ This repository contains 3 different scripts using the TMDb api:
 • Similar Movies  
 • Similar TV Shows  
 
+Here is the official API Documentation of TMDb ---> https://developers.themoviedb.org/3/getting-started/introduction
+
 ### Contents of this README:  
 - [How to get TMDb API Key](#how-to-get-tmdb-api)
 - [Upcoming Movies](#upcoming-movies)
 - [Similar Movies](#similar-movies)
 - [Similar TV Shows](#similar-tv-shows)  
 
-## How to get TMDb API Key:  
+## How to get TMDb API Key  
 First you need to make an account in TMDb  
 Go here -----> https://www.themoviedb.org  
 
@@ -74,9 +76,11 @@ In line 10, intialize "api_key" to your API Key.
 Now you are good to go. Once you run the program, you get output like this.   
 ![Screenshot 2021-02-26 at 9 16 41 PM](https://user-images.githubusercontent.com/72601697/109322172-fada8b80-7877-11eb-8268-4d8d999c0688.png)  
 
-![Screenshot 2021-02-26 at 9 16 50 PM](https://user-images.githubusercontent.com/72601697/109322265-18a7f080-7878-11eb-8357-0e8294b594fe.png)
+![Screenshot 2021-02-26 at 9 16 50 PM](https://user-images.githubusercontent.com/72601697/109322265-18a7f080-7878-11eb-8357-0e8294b594fe.png)  
 
+## Conclusion  
 
-
+The 3 scripts also use an amazing module called Texttable which allows to print data in a nice, neat table. Also the pprint module was used just to pretify the json data.  
+Hope you enjoy using these scripts cuz I personally love them and use them a lot. If you do like it, don't hold back from giving it a star ⭐️.
 
 

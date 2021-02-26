@@ -10,7 +10,7 @@ This repository contains 3 different scripts using the TMDb api:
 - [Similar Movies](#similar-movies)
 - [Similar TV Shows](#similar-tv-shows)  
 
-### How to get TMDb API Key:  
+## How to get TMDb API Key:  
 First you need to make an account in TMDb  
 Go here -----> https://www.themoviedb.org  
 
@@ -39,6 +39,44 @@ Once you get the API Key, you are good to go.
 Note: These scripts use version 3 of the API. So make sure to use the v3 API key.  
 
 
-### Upcoming Movies  
+## Upcoming Movies  
+
+This script gives you a list of Upcoming Movies.  
+
+##### Changes you can make:  
+In line 11, intialize "api_key" to your API Key.  
+In line 10, you can change your region, but these are the rules according to the documentation - "Specify a ISO 3166-1 code to filter release dates. Must be uppercase." Here is a link to the ISO 3166-1 code of each country --> https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes  
+
+Now you are good to go. Once you run the program, you get output like this.  
+![Screenshot 2021-02-26 at 7 40 15 PM](https://user-images.githubusercontent.com/72601697/109320263-d5e51900-7875-11eb-96c6-82065f553f23.png)  
+
+![Screenshot 2021-02-26 at 7 40 40 PM](https://user-images.githubusercontent.com/72601697/109320303-e1d0db00-7875-11eb-8fe2-bf2843f82024.png)
+
+## Similar Movies  
+
+This script gives a list of movies similar to the one you entered.  
+
+##### Changes you can make:  
+In line 10, intialize "api_key" to your API Key.  
+
+Now you are good to go. Once you run the program, you get output like this.  
+![Screenshot 2021-02-26 at 9 07 07 PM](https://user-images.githubusercontent.com/72601697/109321020-b0a4da80-7876-11eb-8783-70abdd7b4ca0.png)  
+
+![Screenshot 2021-02-26 at 9 07 22 PM](https://user-images.githubusercontent.com/72601697/109321055-bbf80600-7876-11eb-95d5-523c0a53b416.png)  
+
+## Similar TV Shows  
+
+This script gives a list of series similar to the one you entered.  
+
+##### Changes you can make:  
+In line 10, intialize "api_key" to your API Key.  
+
+Now you are good to go. Once you run the program, you get output like this.   
+![Screenshot 2021-02-26 at 9 16 41 PM](https://user-images.githubusercontent.com/72601697/109322172-fada8b80-7877-11eb-8268-4d8d999c0688.png)  
+
+![Screenshot 2021-02-26 at 9 16 50 PM](https://user-images.githubusercontent.com/72601697/109322265-18a7f080-7878-11eb-8357-0e8294b594fe.png)
+
+
+
 
 

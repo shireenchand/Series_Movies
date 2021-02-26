@@ -11,6 +11,7 @@ Here is the official API Documentation of TMDb ---> https://developers.themovied
 - [Upcoming Movies](#upcoming-movies)
 - [Similar Movies](#similar-movies)
 - [Similar TV Shows](#similar-tv-shows)  
+- [Conclusion](#conclusion)
 
 ## How to get TMDb API Key  
 First you need to make an account in TMDb  
